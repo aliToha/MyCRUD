@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "560743874332",
+    "firebase_url": "https://fleet-space-195118.firebaseio.com",
+    "project_id": "fleet-space-195118",
+    "storage_bucket": "fleet-space-195118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560743874332:android:d2d248d05d310866",
+        "android_client_info": {
+          "package_name": "com.iak.ali.mycrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560743874332-101gp8hs7lcedjvseeb1dsbs4qmd2edp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "560743874332-jl8ieomgt5a5j76lqgv4vbvitj0dm3ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iak.ali.mycrud",
+            "certificate_hash": "1db18c3b097129dc6d1d5744f1cba691b965fe7a"
+          }
+        },
+        {
+          "client_id": "560743874332-dc2ciidoc1jq3srcaq2scid63j1mj1j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn-XBPQSueo1__HlxDk6pix3KYcs1kQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560743874332-101gp8hs7lcedjvseeb1dsbs4qmd2edp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
